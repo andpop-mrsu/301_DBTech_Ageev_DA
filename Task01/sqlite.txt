@@ -1,0 +1,11 @@
+Версия SQLite: 3.53.4
+
+Режимы вывода:
+- column
+- csv
+- html
+- insert
+- line
+- list
+- tabs
+- tcl
